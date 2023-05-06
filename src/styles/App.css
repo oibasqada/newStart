@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  width: 800px;
+}
+
+.post {
+  border: 2px solid teal;
+  padding: 15px;
+  margin: 15px 0 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
